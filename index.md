@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Yohan Mok - Web Developer/Engineer'
 description: null
 image: null
 author: null
