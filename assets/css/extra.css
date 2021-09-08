@@ -5,12 +5,10 @@
 
 .portfolio-icon{
     display: inline-block;
-    margin-right: 2%;
+    margin-left: 4%;
 }
 
 .portfolio-title{
-    margin-right: 4%;
-    width: fit-content;
 }
 
 .project-header-title{
