@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>portfolio</h1><a href="https://github.com/flaxinger" class="button">Checkout Github</a>
+			<h1>portfolio</h1><a href="https://github.com/flaxinger" class="icon fa-github"></a>
 		</header>
 <div class="table-wrapper">
 	<table>
