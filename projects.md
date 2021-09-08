@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Googler
+title: Projects
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1 class="portfolio-title">portfolio <a href="https://github.com/flaxinger" class="icon fa-github portfolio-icon"></a></h1>
+			<h1 class="portfolio-title">Projects<a href="https://github.com/flaxinger" class="icon fa-github portfolio-icon"></a></h1>
 		</header>
 <div class="table-wrapper">
 	<table>
