@@ -34,9 +34,9 @@ nav-menu: true
 		</tbody>
 	</table>
 </div>
-<div class="project-container">
+<div id="googler" class="project-container">
     <!-- Content -->
-    <h2 id="googler" class="project-header project-header-title">Googler</h2>
+    <h2 class="project-header project-header-title">Googler</h2>
     <a href="https://github.com/flaxinger" class="button project-header">Checkout Source on Github</a>
     <a href="https://github.com/flaxinger" class="button project-header">Find in Chrome Web Store</a>
     <p>Googler is a Google search assistant which aims to help people make full use of Google's search features. Note this project and related developers is in no way affiliated with Google.</p>
