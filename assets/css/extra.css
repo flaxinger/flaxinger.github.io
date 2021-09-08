@@ -1,0 +1,18 @@
+.project-header{
+    display: inline-block;
+    margin-right: 3%;
+    margin-top: 80px;
+}
+
+.portfolio-icon{
+    display: inline-block;
+    margin-left: 4%;
+}
+
+.portfolio-title{
+}
+
+.project-header-title{
+    margin-right: 8%;
+    width: fit-content;
+}
