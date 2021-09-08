@@ -3,6 +3,16 @@
     margin-right: 3%;
 }
 
+.portfolio-icon{
+    display: inline-block;
+    margin-right: 2%;
+}
+
+.portfolio-title{
+    margin-right: 4%
+    width: fit-content;
+}
+
 .project-header-title{
     margin-right: 8%;
     width: fit-content;
