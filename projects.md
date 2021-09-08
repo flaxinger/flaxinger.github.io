@@ -34,21 +34,23 @@ nav-menu: true
 		</tbody>
 	</table>
 </div>
-<!-- Content -->
-<h2 id="googler" class="project-header project-header-title">Googler</h2>
-<a href="https://github.com/flaxinger" class="button project-header">Checkout Source on Github</a>
-<a href="https://github.com/flaxinger" class="button project-header">Find in Chrome Web Store</a>
-<p>Googler is a Google search assistant which aims to help people make full use of Google's search features. Note this project and related developers is in no way affiliated with Google.</p>
-
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Intuitive Access to Advanced Features</h3>
-		<p>Googler provides a simple and intuitive search interface to people less familiar with Google's advanced search tools.</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Saving search environments locally</h3>
-		<p>Many times, searching on Google is a continuous job; which means elaborate search settings used yesterday may need to persist.</p>
-	</div>
+<div class="project-container">
+    <!-- Content -->
+    <h2 id="googler" class="project-header project-header-title">Googler</h2>
+    <a href="https://github.com/flaxinger" class="button project-header">Checkout Source on Github</a>
+    <a href="https://github.com/flaxinger" class="button project-header">Find in Chrome Web Store</a>
+    <p>Googler is a Google search assistant which aims to help people make full use of Google's search features. Note this project and related developers is in no way affiliated with Google.</p>
+    
+    <div class="row">
+        <div class="6u 12u$(small)">
+            <h3>Intuitive Access to Advanced Features</h3>
+            <p>Googler provides a simple and intuitive search interface to people less familiar with Google's advanced search tools.</p>
+        </div>
+        <div class="6u$ 12u$(small)">
+            <h3>Saving search environments locally</h3>
+            <p>Many times, searching on Google is a continuous job; which means elaborate search settings used yesterday may need to persist.</p>
+        </div>
+    </div>
 </div>
 
 <hr class="major" />
