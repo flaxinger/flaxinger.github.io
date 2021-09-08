@@ -12,36 +12,42 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Googler</h1><a href="aaa">Find Googler in Google Chrome Extensions</a>
+			<h1>portfolio</h1><a href="https://github.com/flaxinger" class="button">Checkout Github</a>
 		</header>
-
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><a href="#googler">Googler</a> </td>
+				<td>Google search extension</td>
+			</tr>
+			<tr>
+				<td><a href="#springbootpractice">Spring practice</a> </td>
+				<td>Google search extension</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 <!-- Content -->
-<h2 id="content">What is Googler?</h2>
+<h2 id="googler project-header project-header-title">Googler</h2>
+<a href="https://github.com/flaxinger" class="button project-header">Checkout Source on Github</a>
+<a href="https://github.com/flaxinger" class="button project-header">Find in Chrome Web Store</a>
 <p>Googler is a Google search assistant which aims to help people make full use of Google's search features. Note this project and related developers is in no way affiliated with Google.</p>
 
-
-<h2 id="content">Features of Googler</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Intuitive Access to Advanced Features</h3>
+		<p>Googler provides a simple and intuitive search interface to people less familiar with Google's advanced search tools.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Saving search environments locally</h3>
+		<p>Many times, searching on Google is a continuous job; which means elaborate search settings used yesterday may need to persist.</p>
 	</div>
 </div>
 
